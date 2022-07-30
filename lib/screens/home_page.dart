@@ -30,7 +30,7 @@ class HomePage extends StatelessWidget {
                 ),
               );
             },
-            child: const Text('Project One'),
+            child: const Text('Time with useStream'),
           ),
           const SizedBox(height: 10),
           ElevatedButton(
@@ -42,7 +42,7 @@ class HomePage extends StatelessWidget {
                 ),
               );
             },
-            child: const Text('Project Two'),
+            child: const Text('Text Display with useEffect'),
           ),
           const SizedBox(height: 10),
           ElevatedButton(
@@ -54,7 +54,7 @@ class HomePage extends StatelessWidget {
                 ),
               );
             },
-            child: const Text('Project Three'),
+            child: const Text('Load Image with useFuture'),
           ),
           const SizedBox(height: 10),
           ElevatedButton(
@@ -66,7 +66,7 @@ class HomePage extends StatelessWidget {
                 ),
               );
             },
-            child: const Text('Project Four'),
+            child: const Text('Count Down with useListenable'),
           ),
           const SizedBox(height: 10),
           ElevatedButton(
@@ -78,7 +78,7 @@ class HomePage extends StatelessWidget {
                 ),
               );
             },
-            child: const Text('Project Five'),
+            child: const Text('Animation With useAnimationController'),
           ),
           const SizedBox(height: 10),
           ElevatedButton(
@@ -90,7 +90,7 @@ class HomePage extends StatelessWidget {
                 ),
               );
             },
-            child: const Text('Project Six'),
+            child: const Text('Rotate image with useStreamController'),
           ),
           const SizedBox(height: 10),
           ElevatedButton(

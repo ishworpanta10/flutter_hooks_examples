@@ -52,7 +52,7 @@ class ProjectFive extends HookWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Project Five'),
+        title: const Text('Animation With useAnimation Controller'),
       ),
       body: Column(
         children: [
