@@ -18,7 +18,7 @@ class ProjectTwo extends HookWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Flutter Hook Demo'),
+        title: const Text('Text Display with useEffect and useState'),
       ),
       body: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 10),

@@ -1,10 +1,10 @@
 const List<String> projectList = [
-  'Project 1',
-  'Project 2',
-  'Project 3',
-  'Project 4',
-  'Project 5',
-  'Project 6',
+  'Time with useStream',
+  'Text Display with useEffect',
+  'Load Image with useFuture',
+  'Count Down with useListenable',
+  'Animation With useAnimationController',
+  'Rotate image with useStreamController',
   'Project 7',
   'Project 8',
 ];

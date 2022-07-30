@@ -14,7 +14,7 @@ class ProjectOne extends HookWidget {
     );
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Project One'),
+        title: const Text('Timer with useStream'),
       ),
       body: Center(
         child: !time.hasData ? const CircularProgressIndicator() : Text('Time : ${time.data}'),

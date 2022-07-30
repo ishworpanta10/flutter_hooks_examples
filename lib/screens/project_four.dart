@@ -32,7 +32,7 @@ class ProjectFour extends HookWidget {
     final listenable = useListenable(countDown);
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Project Four'),
+        title: const Text('Count Down with useListenable'),
       ),
       body: Center(
         child: Text(

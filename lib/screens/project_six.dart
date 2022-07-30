@@ -8,7 +8,7 @@ class ProjectSix extends HookWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Project Six'),
+        title: const Text('Rotate image with useStreamController'),
       ),
       body: const Center(
         child: Text('Project Six'),

@@ -41,7 +41,7 @@ class ProjectThree extends HookWidget {
     final snapshot = useFuture(future);
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Project Three'),
+        title: const Text('Load Image with useFuture and useMemoized'),
       ),
       body: Center(
         child: Column(
