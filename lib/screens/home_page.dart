@@ -102,7 +102,7 @@ class HomePage extends StatelessWidget {
                 ),
               );
             },
-            child: const Text('Project Seven'),
+            child: const Text('Reducer with Different Action'),
           ),
           const SizedBox(height: 10),
           ElevatedButton(
