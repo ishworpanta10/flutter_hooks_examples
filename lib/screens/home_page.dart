@@ -114,7 +114,7 @@ class HomePage extends StatelessWidget {
                 ),
               );
             },
-            child: const Text('Project Eight'),
+            child: const Text('AppLifecycleState With useAppLifecycleState '),
           ),
           const SizedBox(height: 10),
         ],

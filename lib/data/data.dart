@@ -6,5 +6,5 @@ const List<String> projectList = [
   'Animation With useAnimationController',
   'Rotate image with useStreamController',
   'Reducer with Different Action',
-  'Project 8',
+  'AppLifecycleState With useAppLifecycleState ',
 ];
