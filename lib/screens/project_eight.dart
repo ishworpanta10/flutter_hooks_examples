@@ -7,7 +7,7 @@ class ProjectEight extends HookWidget {
   @override
   Widget build(BuildContext context) {
     final state = useAppLifecycleState();
-    print('State : $state');
+    // print('State : $state');
 
     return Scaffold(
       appBar: AppBar(
